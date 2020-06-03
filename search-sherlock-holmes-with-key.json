@@ -1,0 +1,704 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 413,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "UWtECwAAQBAJ",
+      "etag": "z2NY5ny/G4U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UWtECwAAQBAJ",
+      "volumeInfo": {
+        "title": "Gender and the Modern Sherlock Holmes",
+        "subtitle": "Essays on Film and Television Adaptations Since 2009",
+        "authors": ["Nadine Farghaly"],
+        "publisher": "McFarland",
+        "publishedDate": "2015-12-23",
+        "description": "From his 1887 literary debut to his many film and television adaptations, Sir Arthur Conan Doyle’s Sherlock Holmes has lost none of his appeal. Besides Holmes himself, no character in Conan Doyle’s stories proves as interesting as the astute detective’s constant companion, Dr. Watson, who somehow seems both superfluous and essential. While Conan Doyle does not depict Holmes and Watson as equals, he avoids presenting Watson as incompetent, as he was made to appear on screen for decades. A variety of reimagined Holmeses and Watsons in recent years have depicted their relationship as more nuanced and complementary. Focusing on the Guy Ritchie films, the BBC’s Sherlock and CBS’s Elementary, this collection of new essays explores the ideas and implications behind these adaptations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476622811"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476622817"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": ["Literary Criticism"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UWtECwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UWtECwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=UWtECwAAQBAJ&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=UWtECwAAQBAJ&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gender_and_the_Modern_Sherlock_Holmes.html?hl=&id=UWtECwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Gender_and_the_Modern_Sherlock_Holmes-sample-epub.acsm?id=UWtECwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Gender_and_the_Modern_Sherlock_Holmes-sample-pdf.acsm?id=UWtECwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UWtECwAAQBAJ&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Focusing on the Guy Ritchie films, the BBC&#39;s Sherlock and CBS&#39;s Elementary, this collection of new essays explores the ideas and implications behind these adaptations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oe1dDwAAQBAJ",
+      "etag": "sB/uIpGT4Fg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oe1dDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Complete Sherlock Holmes",
+        "subtitle": "Novels and Stories",
+        "authors": ["Arthur Conan Doyle"],
+        "publisher": "Strelbytskyy Multimedia Publishing",
+        "publishedDate": "2018-05-31",
+        "description": "There is no riddle that sharp mind of detective Sherlock Holmes can’t solve. Observation, intelligence, selflessness and bravery distinguish a famous literature character created by writer Arthur Conan Doyle. The inimitable duet of Sherlock Holmes and Dr Watson sets to investigation of a crime series, masterly solves complicated cases and restores justice inside and outside London. Contents: - The Adventures of Sherlock Holmes - The Return of Sherlock Holmes - The Hound of the Baskervilles - A Study in Scarlet - His Last Bow - short stories",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:SMP2200000199461"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oe1dDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oe1dDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=oe1dDwAAQBAJ&pg=PP1&dq=sherlock+holmes&hl=&as_ebook=1&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=oe1dDwAAQBAJ&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Sherlock_Holmes.html?hl=&id=oe1dDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Complete_Sherlock_Holmes-sample-epub.acsm?id=oe1dDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Complete_Sherlock_Holmes-sample-pdf.acsm?id=oe1dDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oe1dDwAAQBAJ&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "There is no riddle that sharp mind of detective Sherlock Holmes can’t solve. Observation, intelligence, selflessness and bravery distinguish a famous literature character created by writer Arthur Conan Doyle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pkqgBPOH31QC",
+      "etag": "0iGTkeBxuyE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pkqgBPOH31QC",
+      "volumeInfo": {
+        "title": "Sherlock Holmes",
+        "subtitle": "The Valley of Fear",
+        "authors": ["Arthur Conan Doyle"],
+        "publisher": "Mondial",
+        "publishedDate": "2009",
+        "description": "The first part of the fourth Sherlock Holmes novel, \"The Valley of Fear\" (1914-15), takes place in the English county of Sussex in 1888. Following the murder of Mr. Douglas from Birlstone Manor House, the logical detective skills of Sherlock Holmes and the support of his assistant, Dr. Watson, are needed to determine the identity of the murderer and to capture him. The true and complex background of the crime is revealed, however, only after a flashback, which, in the second part of the novel, leads the reader to a coal-mining area in the U.S. state of Pennsylvania in 1875...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781595691415"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1595691413"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pkqgBPOH31QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pkqgBPOH31QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pkqgBPOH31QC&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pkqgBPOH31QC&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sherlock_Holmes.html?hl=&id=pkqgBPOH31QC"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes-sample-epub.acsm?id=pkqgBPOH31QC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes-sample-pdf.acsm?id=pkqgBPOH31QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pkqgBPOH31QC&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The true and complex background of the crime is revealed, however, only after a flashback, which, in the second part of the novel, leads the reader to a coal-mining area in the U.S. state of Pennsylvania in 1875."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "23N1_vwJlVUC",
+      "etag": "0RQV9luxMlg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/23N1_vwJlVUC",
+      "volumeInfo": {
+        "title": "The Adventures of Sherlock Holmes",
+        "authors": ["Chris Sasaki", "Arthur Conan Doyle", "Lucy Corvino"],
+        "publisher": "Sterling Publishing Company, Inc.",
+        "publishedDate": "2005-01-01",
+        "description": "Amateur detective Sherlock Holmes, the master of deductive reasoning, solves several mysteries with the aid of his friend, Dr. John Watson.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1402712170"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781402712173"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 151,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 77,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.3.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=23N1_vwJlVUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=23N1_vwJlVUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=23N1_vwJlVUC&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=23N1_vwJlVUC&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Sherlock_Holmes.html?hl=&id=23N1_vwJlVUC"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Adventures_of_Sherlock_Holmes-sample-epub.acsm?id=23N1_vwJlVUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=23N1_vwJlVUC&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Amateur detective Sherlock Holmes, the master of deductive reasoning, solves several mysteries with the aid of his friend, Dr. John Watson."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "buc0AAAAMAAJ",
+      "etag": "V6EvNNUuHpo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/buc0AAAAMAAJ",
+      "volumeInfo": {
+        "title": "Adventures of Sherlock Holmes",
+        "authors": ["Sir Arthur Conan Doyle"],
+        "publishedDate": "1892",
+        "description": "Presenting 12 tales starring the legendary British detective Sherlock Holmes, this 1892 book is Arthur Conan Doyle's first short-story collection. The mystery compilation includes some of Holmes's finest cases with his dutiful sidekick, Doctor Watson, most notably \"A Scandal in Bohemia,\" in which Holmes matches wits with the crafty former lover of a European king. Also featured is \"The Adventure of the Red-Headed League,\" a study in misdirection that unfolds to become a much larger scheme. The stories, initially published in the Strand Magazine, are essential reading for Holmes fans.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015049217741"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 307,
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 489,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.3.12.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=buc0AAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=buc0AAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=buc0AAAAMAAJ&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=buc0AAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=buc0AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=buc0AAAAMAAJ&rdid=book-buc0AAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Adventures_of_Sherlock_Holmes.epub?id=buc0AAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Adventures_of_Sherlock_Holmes.pdf?id=buc0AAAAMAAJ&hl=&output=pdf&sig=ACfU3U3UFzY0zsHRr3M-FLDDrmM0rrWf4Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=buc0AAAAMAAJ&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presenting 12 tales starring the legendary British detective Sherlock Holmes, this 1892 book is Arthur Conan Doyle&#39;s first short-story collection."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t5ZXBAAAQBAJ",
+      "etag": "D56WDlEYN6Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t5ZXBAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Sherlock Holmes",
+        "authors": ["Sir Arthur Conan Doyle"],
+        "publisher": "First Avenue Editions ™",
+        "publishedDate": "2014-08-01",
+        "description": "No mystery is too challenging for the infamous detective Sherlock Holmes and his partner, Dr. Watson. Holmes is at his best when the job seems impossible—or just plain absurd. From cases involving a strange group for red-headed men to a missing thumb, Holmes uses his powers of observation and deduction to solve even the weirdest mysteries. Scottish author Sir Arthur Conan Doyle published his first twelve original Sherlock Holmes short stories as serials in the UK's Strand Magazine from 1891-1892. This unabridged collection of the stories is taken from the book form, originally published in 1892.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781467775274"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1467775274"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t5ZXBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t5ZXBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=t5ZXBAAAQBAJ&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=t5ZXBAAAQBAJ&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Adventures_of_Sherlock_Holmes.html?hl=&id=t5ZXBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Adventures_of_Sherlock_Holmes-sample-epub.acsm?id=t5ZXBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Adventures_of_Sherlock_Holmes-sample-pdf.acsm?id=t5ZXBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t5ZXBAAAQBAJ&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This unabridged collection of the stories is taken from the book form, originally published in 1892."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "12ZLDAAAQBAJ",
+      "etag": "eEhwJNQQf1s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/12ZLDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Memoirs of Sherlock Holmes",
+        "authors": ["SIR ARTHUR CONAN DOYLE", "Choi Hyun"],
+        "publisher": "ebookspub",
+        "publishedDate": "2016-06-06",
+        "description": "The Memoirs of Sherlock Holmes is a collection of Sherlock Holmes stories, originally published in 1894, by Arthur Conan Doyle. The first London edition of the Memoirs in 1894 did not include \"The Adventure of the Cardboard Box\", although all twelve stories had appeared in the Strand Magazine. The first U.S. edition did include the story, but it was very quickly replaced with a revised edition that omitted it. The reasoning behind the suppression is unclear. In Britain the story was apparently removed at Doyle's request as it included adultery and so was unsuitable for younger readers. This may have also been the cause for the rapid removal of the story from the U.S. edition, and some sources[specify] state that the publishers believed the story was too scandalous for the American public. As a result, this story was not republished in the U.S. until many years later, when it was added to His Last Bow. Even today, most American editions of the canon include it with His Last Bow, while most British editions keep the story in its original place in The Memoirs of Sherlock Holmes. Additionally, when the story was removed from the Memoirs, its opening pages, where Holmes emulates Dupin, were transferred to the beginning of \"The Adventure of the Resident Patient\". In some later U.S. editions of the Memoirs, which still omit \"The Adventure of the Cardboard Box\", this transfer still appears. reference : Wikipedia, The Memoirs of Sherlock Holmes",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791155193563"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 20,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=12ZLDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=12ZLDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=12ZLDAAAQBAJ&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=12ZLDAAAQBAJ&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Memoirs_of_Sherlock_Holmes.html?hl=&id=12ZLDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Memoirs_of_Sherlock_Holmes-sample-epub.acsm?id=12ZLDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Memoirs_of_Sherlock_Holmes-sample-pdf.acsm?id=12ZLDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=12ZLDAAAQBAJ&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a result, this story was not republished in the U.S. until many years later, when it was added to His Last Bow."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_hnMydl5ptQC",
+      "etag": "5/3ipJMVOjo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_hnMydl5ptQC",
+      "volumeInfo": {
+        "title": "Sherlock Holmes for the 21st Century",
+        "subtitle": "Essays on New Adaptations",
+        "authors": ["Lynnette Porter"],
+        "publisher": "McFarland",
+        "publishedDate": "2012-08-08",
+        "description": "The 21st century is a good time to be Sherlock Holmes. He stars in the Guy Ritchie films, with Robert Downey, Jr.; an internationally popular BBC television series featuring Benedict Cumberbatch; a novel sanctioned by the Arthur Conan Doyle Estate; and dozens of additional novels and short stories, including two by Neil Gaiman. Add to this the videogames, comic books, and fan-created works, plus a potent Internet and social media presence. Holmes’ London has become a prime destination for cinematic tourists. The evidence is clearly laid out in this collection of 14 new essays: Holmes and Watson are more popular than ever. The detective has been portrayed as hero, and antihero. He’s tech savvy, and scientifically detached—even psychologically aberrant. He has been romantically linked to The Woman and bromantically to Watson. Whether Victorian or modern, he continues to fascinate. These essays explain why he is destined to be with us for years to come. Instructors considering this book for use in a course may request an examination copy here.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476600574"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476600570"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": ["Literary Criticism"],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_hnMydl5ptQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_hnMydl5ptQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_hnMydl5ptQC&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_hnMydl5ptQC&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sherlock_Holmes_for_the_21st_Century.html?hl=&id=_hnMydl5ptQC"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes_for_the_21st_Century-sample-epub.acsm?id=_hnMydl5ptQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes_for_the_21st_Century-sample-pdf.acsm?id=_hnMydl5ptQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_hnMydl5ptQC&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether Victorian or modern, he continues to fascinate. These essays explain why he is destined to be with us for years to come. Instructors considering this book for use in a course may request an examination copy here."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WHTTf_cFar4C",
+      "etag": "yg4JUtWfWKU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WHTTf_cFar4C",
+      "volumeInfo": {
+        "title": "Sherlock Holmes: Charles Augustus Milverton",
+        "authors": ["Arthur Conan Doyle"],
+        "publisher": "Library of Alexandria",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465572653"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465572651"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WHTTf_cFar4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WHTTf_cFar4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WHTTf_cFar4C&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WHTTf_cFar4C&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sherlock_Holmes_Charles_Augustus_Milvert.html?hl=&id=WHTTf_cFar4C"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sherlock_Holmes_Charles_Augustus_Milvert-sample-epub.acsm?id=WHTTf_cFar4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WHTTf_cFar4C&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DFaoAwAAQBAJ",
+      "etag": "iOgsVVV9cZI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DFaoAwAAQBAJ",
+      "volumeInfo": {
+        "title": "The London of Sherlock Holmes",
+        "authors": ["John Christopher"],
+        "publisher": "Amberley Publishing Limited",
+        "publishedDate": "2012-07-15",
+        "description": "An interesting look at how Holmes’ London has changed through the last 100 or so years.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781445615684"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1445615681"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": ["Photography"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DFaoAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DFaoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DFaoAwAAQBAJ&printsec=frontcover&dq=sherlock+holmes&hl=&as_ebook=1&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DFaoAwAAQBAJ&dq=sherlock+holmes&hl=&as_ebook=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_London_of_Sherlock_Holmes.html?hl=&id=DFaoAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RS",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RS",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_London_of_Sherlock_Holmes-sample-epub.acsm?id=DFaoAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_London_of_Sherlock_Holmes-sample-pdf.acsm?id=DFaoAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DFaoAwAAQBAJ&hl=&as_ebook=1&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An interesting look at how Holmes’ London has changed through the last 100 or so years."
+      }
+    }
+  ]
+}
